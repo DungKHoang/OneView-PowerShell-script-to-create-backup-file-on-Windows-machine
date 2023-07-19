@@ -1,4 +1,4 @@
-# OneView-PowerShell-script-to-create-backup-file-on-Windows-machine
+# OneView- PowerShell script to create backup file on Windows machine
 
 The PowerShell script OV-backup.ps1 will perform a backup operation to OneView and stores the backup file on a local folder of the Windows machine.
 The script uses a password file that contains teh password as Secure String

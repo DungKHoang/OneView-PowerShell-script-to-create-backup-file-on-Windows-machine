@@ -2,7 +2,7 @@
 Param
 (
     [string]$hostname,
-    [String] $pwdfile = $( throw 'Read Password requires a password file argument - none provided' )
+    [String] $pwdfile = $( throw 'Requires a password file argument - none provided' )
 )
 
 Function Write-Log (
