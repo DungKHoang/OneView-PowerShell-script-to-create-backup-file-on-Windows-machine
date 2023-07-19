@@ -7,6 +7,7 @@ The create-password.ps1 will be used first to encrype the password of OneView in
 
 ## Prerequisites
 * HPE OneView PowerShell library : ```` Install-Module -Name HPEOneView.660 ````
+
 ** Note: if you use HPE OneView 8.00, you need PowerShell 7
 
 
